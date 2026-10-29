@@ -1,3 +1,5 @@
+This workspace contains all of the software and information for the Livox Avia.
+
 Setup after cloning repository:
 
 `cd ws_livox/`
