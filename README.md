@@ -21,3 +21,5 @@ Repository modified from: https://github.com/Livox-SDK/livox_ros2_driver
 ## Related Repositories
 - [Main Project Portfolio](https://github.com/MREN403-CAPSTONE-GROUP9)
 - [Project Management Board](https://github.com/orgs/MREN403-CAPSTONE-GROUP9/projects/1)
+- [Robot Environment](https://github.com/MREN403-CAPSTONE-GROUP9/robotEnv)
+- [Robot Control](https://github.com/MREN403-CAPSTONE-GROUP9/robotControl)
