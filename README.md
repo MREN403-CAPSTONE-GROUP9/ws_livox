@@ -1,5 +1,7 @@
 This workspace contains all of the software and information for the Livox Avia.
 
+IP address: 192.168.1.146
+
 ## Setup after cloning repository
 
 `cd ws_livox/`
